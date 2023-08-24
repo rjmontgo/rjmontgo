@@ -4,7 +4,7 @@
 
 ### What I'm working on
 
-* [Resume]()
+* [Resume](https://firebasestorage.googleapis.com/v0/b/personal-f9352.appspot.com/o/resume-robertmontgomery.pdf?alt=media&token=70cf87ad-b4b7-4c3c-8115-8d639a8c343d)
 
 * [Storage Management Platform](https://tcstorageunits.com)
   This is a storage management platform I built for my brother. It has the consumer facing site (tcstorageunits.com)
@@ -16,7 +16,7 @@
 * Unique typography [maybe you'll like this one](https://tosche.net/fonts/comic-code).
 * Mechanical Keyboards, I currently use a modded version of the [kinesis advantage 2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/).
   The swapped PCB is from the [kinx project](https://github.com/kinx-project/kint). 
-* The [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language) Language
+* The [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) Language
 * [Golang Gin](https://github.com/gin-gonic/gin) and [HTMX](https://htmx.org/)
 
 ## Skills
