@@ -2,8 +2,6 @@
 
 ### What I'm working on
 
-* [Resume](https://firebasestorage.googleapis.com/v0/b/personal-f9352.appspot.com/o/resume-general-robertmontgomery.pdf?alt=media&token=5074f1e0-8729-4cb6-ad78-955add9e4737)
-
 * [Storage Management Platform](https://tcstorageunits.com)
 
   This is a storage management platform I built for my brother. It has a consumer facing site (tcstorageunits.com)
@@ -11,6 +9,7 @@
   turned into a much larger effort, requiring a NestJS server and a relational DB (postgres)
 
 * [Minimalist Hyprland Desktop](https://github.com/rjmontgo/dotfiles)
+ 
 * [NixOS](https://github.com/rjmontgo/nixos)
 
 ### Other things I like
