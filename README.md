@@ -1,25 +1,25 @@
 ## Robert Montgomery
 
-* Fullstack software engineer that likes working in small teams
-
 ### What I'm working on
 
-* [Resume](https://firebasestorage.googleapis.com/v0/b/personal-f9352.appspot.com/o/resume-robertmontgomery.pdf?alt=media&token=70cf87ad-b4b7-4c3c-8115-8d639a8c343d)
+* [Resume](https://firebasestorage.googleapis.com/v0/b/personal-f9352.appspot.com/o/resume-general-robertmontgomery.pdf?alt=media&token=5074f1e0-8729-4cb6-ad78-955add9e4737)
 
 * [Storage Management Platform](https://tcstorageunits.com)
 
+  This is a storage management platform I built for my brother. It has a consumer facing site (tcstorageunits.com)
+  as well as an admin dashboard. It started off as a simple experiment with SvelteKit and Firebase, but has now
+  turned into a much larger effort, requiring a NestJS server and a relational DB (postgres)
 
-  This is a storage management platform I built for my brother. It has the consumer facing site (tcstorageunits.com)
-  as well as an admin dashboard. I process payments with stripe, and the app is currently built with SvelteKit and 
-  Firebase.
- 
-### What I like outside of work
+* [Minimalist Hyprland Desktop](https://github.com/rjmontgo/dotfiles)
+* [NixOS](https://github.com/rjmontgo/nixos)
+
+### Other things I like
 
 * Unique typography [maybe you'll like this one](https://tosche.net/fonts/comic-code).
 * Mechanical Keyboards, I currently use a modded version of the [kinesis advantage 2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/).
   The swapped PCB is from the [kinx project](https://github.com/kinx-project/kint). 
-* The [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) Language
-* [Golang Gin](https://github.com/gin-gonic/gin) and [HTMX](https://htmx.org/)
+* [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) 
+* [HTMX](https://htmx.org/)
 
 ## Skills
 <!-- badges credit to https://github.com/alexandresanlim/Badges4-README.md-Profile -->
